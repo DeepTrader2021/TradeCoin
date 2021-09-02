@@ -18,5 +18,5 @@ Plan:
 First we need to do is to 1) try to obtain history trade data for learning a model and 2) prepare good API to automatically make trade in the future.
 
 Status:
-
+To do.
 }
