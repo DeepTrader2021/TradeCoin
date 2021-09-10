@@ -5,7 +5,7 @@ Explore how to trade coins.
 2021-09-02
 
 2 -- Motivation:
-90% interest for research and 10% desire for money. Moreover, coin trade is 24-hour without price limit, thus it is a good object.
+10% interest for research and 90% desire for money. Moreover, coin trade is 24-hour without price limit, thus it is a good object.
 
 3 -- Goal:
 This project is to explore how to trade coins with statistical methods.
