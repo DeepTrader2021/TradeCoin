@@ -24,7 +24,7 @@ Finish at 2021-09-10
 Step 2 build framework -- plan to do it at 2021-09-10:
 {
 Plan:
-We try to build a base framework for future work, containing modules of reading data, splitting data, constructing training data for reply and search, evalution, reinforcement leanring， plotting visualization.
+We try to build a base framework for future work, containing modules of reading data, splitting data, constructing training data for reply and search, evalution, reinforcement leanring, plotting visualization.
 
 Status:
 To do
